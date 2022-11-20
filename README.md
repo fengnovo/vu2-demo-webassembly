@@ -18,9 +18,9 @@
 4. npm i sass@1.51.0    
    npm i sass-loader@10.1.1
 
-5. vue.config.js 全局配置
-   baseURL:'./'  // vue-cli版本是3.2.0以前的
-	publicPath:'./' // publicPath属性适用于vue-cli 高于3.2.0的项目
+5. vue.config.js 全局配置   
+   baseURL:'./'     // vue-cli版本是3.2.0以前的     
+	publicPath:'./'  // publicPath属性适用于vue-cli 高于3.2.0的项目       
 
 
 ## github action过程  
@@ -34,8 +34,8 @@
 
 
 ## github page
-https://fengnovo.github.io/water-mark/
-要设置对静态js路径 如  src="/water-mark/assets/index.d87e59da.js"
+https://fengnovo.github.io/water-mark/     
+要设置对静态js路径 如  src="/water-mark/assets/index.d87e59da.js"     
 
 ## Project setup
 ```
